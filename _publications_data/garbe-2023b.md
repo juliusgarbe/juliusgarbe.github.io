@@ -2,7 +2,7 @@
 title: "PISM version as used in Garbe et al. (TC, 2023) publication (Version v1.2-debm-simple-antarctica)"
 collection: publications_data
 permalink: /publications/data/garbe-2023b
-citation: "<b>Garbe, J.</b>, Zeitz, M., other PISM authors: <i>PISM version as used in Garbe et al. (TC, 2023) publication (Version v1.2-debm-simple-antarctica)</i>, Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.8325074'>10.5281/zenodo.8325074</a>, 2023."
+citation: "<b>Garbe, J.</b>, Zeitz, M., other PISM authors: <i>PISM version as used in Garbe et al. (TC, 2023) publication (Version v1.2-debm-simple-antarctica)</i> [code], Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.8325074'>10.5281/zenodo.8325074</a>, 2023."
 date: 2023-09-07
 venue: 'Zenodo'
 ---
