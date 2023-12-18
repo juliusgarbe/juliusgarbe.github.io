@@ -42,4 +42,5 @@ Germany
 ### Social Media Profiles
 <i class="fab fa-mastodon" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.mastodon.url }}">Mastodon</a><br />
 <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a><br />
+<i class="fas fa-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://bsky.app/profile/{{ site.author.bluesky }}">Bluesky</a><br />
 <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
