@@ -16,7 +16,7 @@ redirect_from:
 {% include toc title="Jump to" icon="fas fa-file-alt" %}
 
 ## Research Interests
-- Numerical ice sheet modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
+- Numerical ice sheet modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#parallel-ice-sheet-model-pism "/research/#parallel-ice-sheet-model-pism"))
 - Antarctic Ice Sheet stability and future sea-level rise (<i class="fas fa-arrow-circle-right"></i> e.g., [Hill et al., 2023](/publications/articles/hill-2023 "/publications/articles/hill-2023"); [Reese et al., 2023](/publications/articles/reese-2023 "/publications/articles/reese-2023"); [Bauer et al., 2023](/publications/articles/bauer-2023 "/publications/articles/bauer-2023"))
 - Tipping points and hysteresis behavior of the Antarctic Ice Sheet (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"); [Chandler et al., 2023](/publications/preprints/chandler-2023 "/publications/preprints/chandler-2023"))
 - Surface melting in Antarctica (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2023](/publications/articles/garbe-2023 "/publications/articles/garbe-2023"))
@@ -32,8 +32,8 @@ To get a better idea of my research focus, watch this short introduction video a
 {% include video id="gD7N8Z9PxqU" provider="youtube" %}
 
 ## Models
-### PISM
-For my research, I mainly use and co-develop the [Parallel Ice Sheet Model (PISM)](https://www.pism.io/ "https://www.pism.io/"). PISM is an open-source, high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
+### Parallel Ice Sheet Model (PISM)
+For my research, I mainly use and co-develop the [Parallel Ice Sheet Model (PISM)](https://www.pism.io/ "https://www.pism.io/"). PISM is an [open-source](/publications/data/khrulev-2023 '/publications/data/khrulev-2023'), high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
 PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the Potsdam Institute for Climate Impact Research (PIK).
 
 {% include figure image_path="/images/pism_3d_4km_2020.png" class="half" style="display:block;text-align:center;" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
