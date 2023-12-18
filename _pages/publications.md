@@ -41,14 +41,14 @@ redirect_from:
 <div class="list__item">
 <h2 class="archive__item-title" itemprop="headline"><a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">The Global Tipping Points Report 2023</a></h2>
 <p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> University of Exeter | 2023</p>
-Lenton, T.M., Armstrong McKay, D.I., Loriani, S., Abrams, J.F., Lade, S.J., Donges, J.F., Milkoreit, M., Powell, T., Smith, S.R., Zimm, C., Buxton, J.E., Laybourn, L., Ghadiali, A., Dyke, J.G. (eds): <i>The Global Tipping Points Report 2023</i>, University of Exeter, Exeter, UK, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">https://global-tipping-points.org</a>, in press, 2023.
+Lenton, T.M., Armstrong McKay, D.I., Loriani, S., Abrams, J.F., Lade, S.J., Donges, J.F., Milkoreit, M., Powell, T., Smith, S.R., Zimm, C., Buxton, J.E., Bailey, E., Laybourn, L., Ghadiali, A., Dyke, J.G. (eds): <i>The Global Tipping Points Report 2023</i>, University of Exeter, Exeter, UK, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">global-tipping-points.org</a>, 2023.
 </div>
 
 ## Non-Peer-Reviewed Publications
 <div class="list__item">
 <h2 class="archive__item-title" itemprop="headline"><a href="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" title="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" target="_blank">Hysteresis For Dummies – Why history matters</a></h2>
 <p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> EGU Blogs | 2020</p>
-<b>Garbe, J.</b>: <i>Hysteresis For Dummies – Why history matters</i>, EGU Blogs, <a href="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" title="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" target="_blank">https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/</a>, 2020.
+<b>Garbe, J.</b>: <i>Hysteresis For Dummies – Why history matters</i>, EGU Blogs, <a href="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" title="https://blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/" target="_blank">blogs.egu.eu/divisions/cr/2020/12/04/hysteresis-for-dummies-why-history-matters/</a>, 2020.
 </div>
 
 ## Academic Theses
