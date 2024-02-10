@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact details and online profiles."
+#excerpt: "Contact details and online profiles."
 header:
   overlay_image: header/header5.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
