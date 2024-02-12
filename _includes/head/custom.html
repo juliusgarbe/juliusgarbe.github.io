@@ -46,6 +46,7 @@
 
 <!-- Additional custom styles -->
 <style>
+
 /* Home page responsive columns */
 .homepage-column-left {
   float: left;
@@ -63,6 +64,7 @@
   display: table;
   clear: both;
 }
+
 /* Responsive layout - make the two columns stack on top of each other instead of next to each other if browser width is below 600px */
 @media screen and (max-width: 600px) {
   .homepage-column-left {
@@ -76,6 +78,7 @@
     border: 0px;
   }
 }
+
 /* search input box style */
 .search-input {
    -webkit-appearance: none;
@@ -87,6 +90,18 @@
    padding: .5em;
    width: 100%;
  }
+
+/* Altmetric & Dimensions badges */
+.badges {
+  margin-top: -1rem;
+  margin-bottom: 0.5rem;
+  span {
+    display: inline-block; /* keep spans in one line */
+    height: 100%;
+    vertical-align: middle;
+    padding-right: 0.5rem;
+  }
+}
 </style>
 
 <!-- end custom head snippets -->

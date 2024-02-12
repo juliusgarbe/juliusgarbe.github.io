@@ -67,9 +67,10 @@
     {% endif %}
 
     {% if post.doi %}
-      <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="large_rectangle" data-hide-zero-citations="false"></span>
-      <br />
-      <span data-doi="{{ post.doi }}" data-badge-type="donut" data-badge-popover="right" data-condensed="true" class="altmetric-embed" data-hide-no-mentions="true"></span>
+      <div class="badges">
+        <span class="altmetric-embed" data-doi="{{ post.doi }}" data-badge-type="2" data-badge-popover="right" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="false"></span>
+        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_rectangle" data-hide-zero-citations="false"></span>
+      </div>
     {% endif %}
 
   </article>
