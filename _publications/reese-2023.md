@@ -2,7 +2,7 @@
 title: "The stability of present-day Antarctic grounding lines – Part 2: Onset of irreversible retreat of Amundsen Sea glaciers under current climate on centennial timescales cannot be excluded"
 collection: publications
 permalink: /publications/articles/reese-2023
-citation: "Reese, R., <b>Garbe, J.</b>, Hill, E. A., Urruty, B., Naughten, K. A., Gagliardini, O., Durand, G., Gillet-Chaulet, F., Chandler, D., Langebroek, P. M., Winkelmann, R.: <i>The stability of present-day Antarctic grounding lines – Part 2: Onset of irreversible retreat of Amundsen Sea glaciers under current climate on centennial timescales cannot be excluded</i>, The Cryosphere, 17, 3761-3783, DOI: <a href='https://doi.org/10.5194/tc-17-3761-2023'>10.5194/tc-17-3761-2023</a>, 2023."
+citation: "Reese, R., <b>Garbe, J.</b>, Hill, E. A., Urruty, B., Naughten, K. A., Gagliardini, O., Durand, G., Gillet-Chaulet, F., Gudmundsson, G. H., Chandler, D., Langebroek, P. M., Winkelmann, R.: <i>The stability of present-day Antarctic grounding lines – Part 2: Onset of irreversible retreat of Amundsen Sea glaciers under current climate on centennial timescales cannot be excluded</i>, The Cryosphere, 17, 3761-3783, DOI: <a href='https://doi.org/10.5194/tc-17-3761-2023'>10.5194/tc-17-3761-2023</a>, 2023."
 doi: 10.5194/tc-17-3761-2023
 date: 2023-09-07
 venue: 'The Cryosphere'
