@@ -40,11 +40,11 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
+      {% if author.twitter %}
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-x-twitter" aria-hidden="true"></i> Twitter</a></li>
+      {% endif %}
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
-      {% endif %}
-      {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
       {% if author.bluesky %}
         <!-- FIXME: replace Bluesky logo with FA icon -->
