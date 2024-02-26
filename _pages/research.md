@@ -39,4 +39,4 @@ PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the P
 {% include figure image_path="/images/pism_3d_4km_2020.png" class="half" style="display:block;text-align:center;" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
 
 ### Modeling Sandbox
-Want to play around with some simple ice-sheet models yourself? Check out [this Github repository](https://github.com/juliusgarbe/modelling_sandbox "https://github.com/juliusgarbe/modelling_sandbox")!
+Want to play around with some simple ice-sheet models yourself? Check out this <i class="fas fa-arrow-circle-right"></i> [Github repository](https://github.com/juliusgarbe/modelling_sandbox "https://github.com/juliusgarbe/modelling_sandbox")!
