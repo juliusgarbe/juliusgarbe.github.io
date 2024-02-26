@@ -29,7 +29,7 @@ My research focuses on the long-term stability and critical thresholds - so-call
 {% include figure image_path="/images/Fig4.png" style="display:block;text-align:center;" alt="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming" caption="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
 
 To get a better idea of my research focus, watch this short introduction video about the [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") project on tipping points in Antarctic climate components, in which I am involved:
-{% include video id="gD7N8Z9PxqU" provider="youtube" %}
+{% include video id="brUoMpHmbiA" provider="youtube" %}
 
 ## Models
 ### Parallel Ice Sheet Model (PISM)
