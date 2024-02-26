@@ -2,6 +2,10 @@
 permalink: /cv/
 title: "Curriculum Vitae"
 #excerpt: "Education, scientific background, research interests & skills, and more."
+header:
+  overlay_image: header/header2.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Photo: J. Garbe"
 author_profile: true
 redirect_from:
   - 
