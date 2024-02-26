@@ -16,7 +16,7 @@ redirect_from:
 ### Office
 <i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Telegrafenberg A62, Room S10, 14473 Potsdam<br />
 
-<i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br />
+<i class="far fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br />
 <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a><br />
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;<a href="tel:{{ site.author.phone }}">{{ site.author.phone }}</a><br />
 
