@@ -32,7 +32,7 @@ Germany
 
 ### Scientific Profiles
 <i class="ai ai-orcid" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a><br />
-<i class="ai ai-researcherid-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.researcherid.url }}">WoS ResearcherID</a><br />
+<i class="ai ai-clarivate" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.researcherid.url }}">WoS ResearcherID</a><br />
 <i class="ai ai-scopus" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}">Scopus Author ID</a><br />
 <i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
 <i class="fas fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}">Google Scholar</a><br />
