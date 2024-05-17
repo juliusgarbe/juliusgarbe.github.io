@@ -58,13 +58,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter "juliusgarbe"
+x:
+  username               : &x "juliusgarbe"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "avatar/IMG_6274.JPG" # Open Graph/Twitter default site image
+og_image                 : "avatar/IMG_6274.JPG" # Open Graph/X default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -118,9 +118,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
   vine             :
   weibo            :
+  x                : *x
   xing             :
   youtube          :
   wikipedia        :

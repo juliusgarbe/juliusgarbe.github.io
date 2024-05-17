@@ -6,7 +6,7 @@ Julius Garbe:
   email       : "julius.garbe@pik-potsdam.de"
   bio         : #""
   avatar      : "avatar/IMG_6274.JPG"
-  twitter     : "juliusgarbe"
+  x           : "juliusgarbe"
   google_plus : #"Name"
 
 # Name2 Name2:
@@ -14,5 +14,5 @@ Julius Garbe:
 #   email       : "name2@name2.com"
 #   bio         : "I ordered what?"
 #   avatar      : "bio-photo.jpg"
-#   twitter     : "name2"
+#   x           : "name2"
 #   google_plus : "Name"
