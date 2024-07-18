@@ -2,7 +2,7 @@
 title: "Parallel Ice Sheet Model (PISM)"
 collection: publications_data
 permalink: /publications/data/khrulev-2023
-citation: "Khrulev, C., Aschwanden, A., Bueler, E., Brown, J., Maxwell, D., Albrecht, T., Reese, R., Mengel, M., Martin, M., Winkelmann, R., Zeitz, M., Levermann, A., Feldmann, J., <b>Garbe, J.</b>, Haseloff, M., Seguinot, J., Hinck, S., Kleiner, T., Fischer, E., Damsgaard, A., Lingle, C., van Pelt, W., Ziemen, F., Shemonski, N., Mankoff, K., Kennedy, J., Blum, K., Habermann, M., DellaGiustina, D., Hock, R., Kreuzer, M., Degregori, E., Schoell, S.: <i>Parallel Ice Sheet Model (PISM)</i> [code], Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.1199019'>10.5281/zenodo.1199019</a>, 2023."
+citation: "Khrulev, C., Aschwanden, A., Bueler, E., Brown, J., Maxwell, D., Albrecht, T., Reese, R., Mengel, M., Martin, M., Winkelmann, R., Zeitz, M., Levermann, A., Feldmann, J., <b>Garbe, J.</b>, Haseloff, M., Seguinot, J., Hinck, S., Kleiner, T., Fischer, E., Damsgaard, A., Lingle, C., van Pelt, W., Ziemen, F., Shemonski, N., Mankoff, K., Kennedy, J., Blum, K., Habermann, M., DellaGiustina, D., Hock, R., Kreuzer, M., Degregori, E., Schoell, S.: <i>Parallel Ice Sheet Model (PISM)</i> [code], Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.1199019'>10.5281/zenodo.1199019</a>, 2023. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 date: 2023-11-23
 venue: 'Zenodo'
 ---

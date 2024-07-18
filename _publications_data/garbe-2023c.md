@@ -2,7 +2,7 @@
 title: "PISM model output data from Garbe et al. (Nature, 2020) publication"
 collection: publications_data
 permalink: /publications/data/garbe-2023c
-citation: "<b>Garbe, J.</b>: <i>PISM model output data from Garbe et al. (Nature, 2020) publication</i> [data set], Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.10361755'>10.5281/zenodo.10361755</a>, 2023."
+citation: "<b>Garbe, J.</b>: <i>PISM model output data from Garbe et al. (Nature, 2020) publication</i> [data set], Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.10361755'>10.5281/zenodo.10361755</a>, 2023. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 date: 2023-12-12
 venue: 'Zenodo'
 ---

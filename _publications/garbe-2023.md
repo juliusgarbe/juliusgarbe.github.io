@@ -2,7 +2,7 @@
 title: "The evolution of future Antarctic surface melt using PISM-dEBM-simple"
 collection: publications
 permalink: /publications/articles/garbe-2023
-citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere, 17, 4571–4599, DOI: <a href='https://doi.org/10.5194/tc-17-4571-2023'>10.5194/tc-17-4571-2023</a>, 2023."
+citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere, 17, 4571–4599, DOI: <a href='https://doi.org/10.5194/tc-17-4571-2023'>10.5194/tc-17-4571-2023</a>, 2023. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 doi: 10.5194/tc-17-4571-2023
 press: 
 date: 2023-11-02
