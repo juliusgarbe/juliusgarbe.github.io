@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/articles/bauer-2023
 citation: "Bauer, N., Keller, D. P., <b>Garbe, J.</b>, Karstens, K., Piontek, F., von Bloh, W., Thiery, W., Zeitz, M., Mengel, M., Strefler, J., Thonicke, K., and Winkelmann, R.: <i>Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time</i>, Environ. Res. Lett., 18, 054015, DOI: <a href='https://doi.org/10.1088/1748-9326/accd83'>10.1088/1748-9326/accd83</a>, 2023."
 doi: 10.1088/1748-9326/accd83
+press: 
 date: 2023-05-02
 venue: 'Environmental Research Letters'
 ---
