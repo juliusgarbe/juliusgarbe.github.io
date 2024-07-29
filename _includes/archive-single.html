@@ -71,7 +71,7 @@
         <span class="altmetric-embed" data-doi="{{ post.doi }}" data-badge-type="2" data-badge-popover="right" data-link-target="_blank" data-condensed="true" data-hide-no-mentions="false"></span>
         <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_rectangle" data-hide-zero-citations="false"></span>
         {% if post.press %}
-        <span><a href="{{ post.press }}" title="{{ post.press }}" target="_blank">Press Release</a></span>
+        <span><a href="{{ post.press }}" title="{{ post.press }}" target="_blank" class="btn btn--inverse btn--small" style="padding: 0.2em 1em;"><i class="fa fa-bullhorn" aria-hidden="true"></i> Press Release</a></span>
         {% endif %}
       </div>
     {% endif %}
