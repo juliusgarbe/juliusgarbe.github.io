@@ -10,6 +10,9 @@ venue: "Earth's Future"
 ---
 
 ## Abstract
+<div style="float: left; margin-right: 10px; width: 380px;">
+    <img src="https://agupubs.onlinelibrary.wiley.com/cms/asset/1f660c28-fa8d-4a2f-b945-59c2b18ee908/eft21724-fig-0004-m.jpg">
+</div>
 The Ice Sheet Model Intercomparison Project for CMIP6 (ISMIP6) is the primary effort of CMIP6 (Coupled Model Intercomparison Project–Phase 6) focusing on ice sheets, designed to provide an ensemble of process-based projections of the ice-sheet contribution to sea-level rise over the twenty-first century. However, the behavior of the Antarctic Ice Sheet beyond 2100 remains largely unknown: several instability mechanisms can develop on longer time scales, potentially destabilizing large parts of Antarctica. Projections of Antarctic Ice Sheet evolution until 2300 are presented here, using an ensemble of 16 ice-flow models and forcing from global climate models. Under high-emission scenarios, the Antarctic sea-level contribution is limited to less than 30 cm sea-level equivalent (SLE) by 2100, but increases rapidly thereafter to reach up to 4.4 m SLE by 2300. Simulations including ice-shelf collapse lead to an additional 1.1 m SLE on average by 2300, and can reach 6.9 m SLE. Widespread retreat is observed on that timescale in most West Antarctic basins, leading to a collapse of large sectors of West Antarctica by 2300 in 30%–40% of the ensemble. While the onset date of retreat varies among ice models, the rate of upstream propagation is highly consistent once retreat begins. Calculations of sea-level contribution including water density corrections lead to an additional ∼10% sea level and up to 50% for contributions accounting for bedrock uplift in response to ice loading. Overall, these results highlight large sea-level contributions from Antarctica and suggest that the choice of ice sheet model remains the leading source of uncertainty in multi-century projections.
 
 ## Official press release
