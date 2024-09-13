@@ -20,8 +20,8 @@ More than half of Earth's freshwater resources are held by the Antarctic Ice She
 [Click here](https://rdcu.be/b7B4c) for a free-to-read access to the full article (*read only*).
 
 ## Official press release
-- Potsdam Institute: *["Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise"](https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise "https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise")*
-- Columbia University: *["Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise"](https://news.climate.columbia.edu/2020/09/23/stability-check-antarctica-reveals-high-risk-long-term-sea-level-rise/ "https://news.climate.columbia.edu/2020/09/23/stability-check-antarctica-reveals-high-risk-long-term-sea-level-rise/")*
+- Potsdam Institute: *[Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise](https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise "https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise")*
+- Columbia University: *[Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise](https://news.climate.columbia.edu/2020/09/23/stability-check-antarctica-reveals-high-risk-long-term-sea-level-rise/ "https://news.climate.columbia.edu/2020/09/23/stability-check-antarctica-reveals-high-risk-long-term-sea-level-rise/")*
 
 ## Media coverage
 Selected international media articles:
