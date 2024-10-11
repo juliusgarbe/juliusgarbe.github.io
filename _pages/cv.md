@@ -16,7 +16,7 @@ redirect_from:
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
 <h2 align="center">{{ site.author.name }}</h2>
-<h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3>
+<h3 align="center" style="margin: 0px auto 20px;">M.Sc. Climate Sciences</h3>
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
 <p align="center"><i class="far fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-x-twitter" aria-hidden="true"></i>&nbsp;<a href="https://x.com/{{ site.author.x }}">@{{ site.author.x }}</a></p>
@@ -37,10 +37,10 @@ redirect_from:
   - *Supervisors:* Prof. Jürgen Kurths & Dr. habil. Georg Feulner
 
 ## Relevant Academic Positions
-- **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, 2017-present
+- **Ph.D. candidate and researcher**, Potsdam Institute for Climate Impact Research, 2017-present
   - *Working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
-  - *FutureLab:* [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
-  - *Funding:* [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") (Leibniz Association), [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (EU H2020)
+  - *Department:* [Earth Resilience Science Unit](https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu "https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu")
+  - *Funding:* [DominoES](https://www.pik-potsdam.de/en/institute/departments/activities/dominoes "https://www.pik-potsdam.de/en/institute/departments/activities/dominoes") (Leibniz Association), [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (EU H2020)
 - **M.Sc. student**, Potsdam Institute for Climate Impact Research, 2016-2017
   - *Working group:* [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation")
   
