@@ -24,7 +24,7 @@ redirect_from:
 - Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERSU](https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu "https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu"))
 
 ## Ph.D. Project
-My research focuses on the long-term stability and critical thresholds - so-called 'tipping points' - of the Antarctic Ice Sheet, as well as their consequences for long-term sea-level rise under ongoing global warming. In particular, I investigate how the stability of the Antarctic Ice Sheet is affected by the influence of interacting tipping elements in the Earth's climate system, such as the Greenland Ice Sheet or the Atlantic meridional overturning circulation (AMOC). The aim of my Ph.D. project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland Ice Sheet enhances the tipping potential of the Antarctic Ice Sheet.
+My research focuses on the long-term stability and critical thresholds, or "tipping points", of the Antarctic Ice Sheet, as well as their implications for future sea-level rise under global warming. In particular, I focus on how the stability of the Antarctic Ice Sheet is influenced by interacting tipping elements within the Earth's climate system, such as the Greenland Ice Sheet and the Atlantic Meridional Overturning Circulation (AMOC). The goal of my Ph.D. project is to determine whether interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland Ice Sheet amplifies the tipping potential of the Antarctic Ice Sheet.
 
 {% include figure image_path="/images/Fig4.png" style="display:block;text-align:center;" alt="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming" caption="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
 
@@ -33,7 +33,7 @@ To get a better idea of my research focus, watch this short introduction video a
 
 ## Models
 ### Parallel Ice Sheet Model (PISM)
-For my research, I mainly use and co-develop the [Parallel Ice Sheet Model (PISM)](https://www.pism.io/ "https://www.pism.io/"). PISM is an [open-source](/publications/data/khrulev-2023 '/publications/data/khrulev-2023'), high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
+For my research, I mainly use and co-develop the [Parallel Ice Sheet Model (PISM)](https://www.pism.io/ "https://www.pism.io/"). PISM is an [open-source](/publications/data/khrulev-2023 '/publications/data/khrulev-2023'), high-resolution computer model used to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
 PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the Potsdam Institute for Climate Impact Research (PIK).
 
 {% include figure image_path="/images/pism_3d_4km_2020.png" class="half" style="display:block;text-align:center;" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
