@@ -43,19 +43,6 @@ redirect_from:
   - *Funding:* [DominoES](https://www.pik-potsdam.de/en/institute/departments/activities/dominoes "https://www.pik-potsdam.de/en/institute/departments/activities/dominoes") (Leibniz Association), [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (EU H2020)
 - **M.Sc. student**, Potsdam Institute for Climate Impact Research, 2016-2017
   - *Working group:* [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation")
-  
-## Scientific Background
-- **Physics courses:** classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
-- **Mathematics courses:** analysis, complex analysis, linear algebra
-- **Climate physics courses:** ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
-
-## Computer Skills
-- **Programming languages:** Python, C++, Bash/Shell script, LaTeX, R, Fortran
-- **Science:** Numpy, Scipy, Matlab, Mathematica
-- **Visualization:** Matplotlib, QGIS, PyGMT, Paraview, Panoply
-- **Web development:** HTML, CSS, Markdown
-- **Tools:** CDO, NCO, Conda, Git
-- **Office:** MS Office, iWork
 
 ## Peer-Reviewed Publications
 <ul>{% for post in site.publications reversed %}
