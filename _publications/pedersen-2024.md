@@ -2,7 +2,7 @@
 title: "Earth's hypsometry and what it tells us about global sea level"
 collection: publications
 permalink: /publications/articles/pedersen-2024
-citation: "Pedersen, V. K., Gomez, N., Mitrovica, J. X., Jungdal-Olesen, G., Andersen, J. L., <b>Garbe, J.</b>, Aschwanden, A., Winkelmann, R.: <i>Earth's hypsometry and what it tells us about global sea level</i>, Earth and Planetary Science Letters, 648, DOI: <a href='https://doi.org/10.1016/j.epsl.2024.119071'>10.1016/j.epsl.2024.119071</a>, 2024.. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
+citation: "Pedersen, V. K., Gomez, N., Mitrovica, J. X., Jungdal-Olesen, G., Andersen, J. L., <b>Garbe, J.</b>, Aschwanden, A., Winkelmann, R.: <i>Earth's hypsometry and what it tells us about global sea level</i>, Earth and Planetary Science Letters, 648, DOI: <a href='https://doi.org/10.1016/j.epsl.2024.119071'>10.1016/j.epsl.2024.119071</a>, 2024. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 doi: 10.1016/j.epsl.2024.119071
 date: 2024-10-21
 venue: 'Earth and Planetary Science Letters'
