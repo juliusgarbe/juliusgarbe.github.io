@@ -5,14 +5,14 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
+    {% if site.author.bluesky %}
+      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+    {% endif %}
     {% if site.author.mastodon.id %}
       <li><a href="{{ site.author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
     {% endif %}
     {% if site.x.username %}
       <li><a href="https://x.com/{{ site.x.username }}"><i class="fab fa-x-twitter" aria-hidden="true"></i> X (Twitter)</a></li>
-    {% endif %}
-    {% if site.author.bluesky %}
-      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
     {% endif %}
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook" aria-hidden="true"></i> Facebook</a></li>
