@@ -299,10 +299,8 @@ body:hover .visually-hidden button {
   /* academicons */
 
   .ai-clarivate,
-  .ai-clarivate-square,
-  .ai-researcherid,
-  .ai-researcherid-square {
-    color: $researcherid-color;
+  .ai-clarivate-square {
+    color: $clarivate-color;
   }
 
   .ai-google-scholar,

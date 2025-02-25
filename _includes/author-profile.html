@@ -115,8 +115,8 @@
       {% if author.researchgate %}
         <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a></li> <!-- academicon: "ai ai-researchgate-square" fontawesome: "fab fa-researchgate" -->
       {% endif %}
-      {% if author.researcherid %}
-        <li><a href="{{ author.researcherid.url }}"><i class="ai ai-clarivate" aria-hidden="true"></i> ResearcherID</a></li>
+      {% if author.webofscience %}
+        <li><a href="{{ author.webofscience.url }}"><i class="ai ai-clarivate" aria-hidden="true"></i> Web of Science</a></li>
       {% endif %}
       {% if author.scopus %}
         <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}"><i class="ai ai-scopus" aria-hidden="true"></i> Scopus</a></li>

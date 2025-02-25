@@ -24,7 +24,7 @@ redirect_from:
   {% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" class="btn btn--inverse"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> {% endif %}
   {% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}" class="btn btn--inverse"><i class="ai ai-orcid"></i> ORCID</a> {% endif %}
   {% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}" class="btn btn--inverse"><i class="ai ai-scopus"></i> Scopus</a> {% endif %}
-  {% if site.author.researcherid %}<a href="{{ site.author.researcherid.url }}" class="btn btn--inverse"><i class="ai ai-clarivate"></i> ResearcherID</a> {% endif %}
+  {% if site.author.webofscience %}<a href="{{ site.author.webofscience.url }}" class="btn btn--inverse"><i class="ai ai-clarivate"></i> Web of Science</a> {% endif %}
 </div>
 
 ## Submitted Articles & Preprints
