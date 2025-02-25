@@ -23,7 +23,8 @@ redirect_from:
 
 ## Education
 - **Ph.D. in Climate Physics**, 2017-present<br>
-**[Institute of Physics and Astronomy, University of Potsdam](http://www.physik.uni-potsdam.de/ "http://www.physik.uni-potsdam.de/") / [Earth System Analysis department, Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/")**
+**[Earth Resilience Science Unit, Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [Institute of Physics and Astronomy, University of Potsdam](http://www.physik.uni-potsdam.de/ "http://www.physik.uni-potsdam.de/")**
+  - *Thesis:* The Antarctic Ice Sheet as a tipping element in the Earth system
   - *Supervisors:* Prof. Ricarda Winkelmann & Dr. Jonathan F. Donges
 
 - **M.Sc. in Integrated Climate System Sciences**, 2014-2017<br>
@@ -37,11 +38,15 @@ redirect_from:
   - *Supervisors:* Prof. Jürgen Kurths & Dr. habil. Georg Feulner
 
 ## Relevant Academic Positions
-- **Ph.D. candidate and researcher**, Potsdam Institute for Climate Impact Research, 2017-present
+- **Guest researcher**, Potsdam Institute for Climate Impact Research, 2024-present
   - *Working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
   - *Department:* [Earth Resilience Science Unit](https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu "https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu")
-  - *Funding:* [DominoES](https://www.pik-potsdam.de/en/institute/departments/activities/dominoes "https://www.pik-potsdam.de/en/institute/departments/activities/dominoes") (Leibniz Association), [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (EU H2020)
-- **M.Sc. student**, Potsdam Institute for Climate Impact Research, 2016-2017
+- **Research assistant**, Potsdam Institute for Climate Impact Research, 2017-2023
+  - *Working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
+- **Graduate research assistant**, Potsdam Institute for Climate Impact Research, 2016-2017
+  - *Working group:* [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation")
+  - *Associated working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
+- **Undergraduate research assistant**, Potsdam Institute for Climate Impact Research, 2012-2013
   - *Working group:* [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation")
 
 ## Peer-Reviewed Publications
