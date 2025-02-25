@@ -85,45 +85,45 @@ author:
   name             : *name # sidebar name
   avatar           : "avatar/IMG_6274.JPG"
   bio              : "Ph.D. candidate and climate scientist at the Potsdam Institute for Climate Impact Research at Potsdam, Germany." # sidebar bio
-  location         : "Berlin, Germany"
-  employer         : # "PIK Potsdam"
-  googlescholar    : "PHdduOoAAAAJ"
-  email            : "julius.garbe@pik-potsdam.de"
-  researchgate     : "Julius_Garbe"
-  uri              : "https://www.pik-potsdam.de/members/garbe/"
   bitbucket        :
+  bluesky          : "juliusgarbe.bsky.social"
   codepen          :
   dribbble         :
-  flickr           :
+  email            : "julius.garbe@pik-potsdam.de"
+  employer         : # "PIK Potsdam"
   facebook         :
+  flickr           :
   foursquare       :
   github           : "juliusgarbe"
   google_plus      :
-  keybase          :
+  googlescholar    : "PHdduOoAAAAJ"
   instagram        :
+  keybase          :
   lastfm           :
   linkedin         : "juliusgarbe"
+  location         : "Berlin, Germany"
   mastodon         :
     id             : "juliusgarbe@mastodon.social"
     url            : "https://mastodon.social/@juliusgarbe"
-  bluesky          : "juliusgarbe.bsky.social"
   orcid            : "0000-0003-3140-3307"
   phone            : "+49 331 288 2673"
   pinterest        :
   researcherid     : 
     id             : "AAY-2415-2020"
     url            : "https://www.webofscience.com/wos/author/record/2072215"
+  researchgate     : "Julius_Garbe"
   scopus           : "57214945797"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  uri              : "https://www.pik-potsdam.de/members/garbe/"
   vine             :
   weibo            :
+  wikipedia        :
   x                : *x
   xing             :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
