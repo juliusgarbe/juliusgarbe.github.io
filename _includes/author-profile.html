@@ -37,17 +37,14 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="far fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.keybase %}
-        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
-      {% endif %}
-      {% if author.x %}
-        <li><a href="https://x.com/{{ author.x }}"><i class="fab fa-x-twitter" aria-hidden="true"></i> X (Twitter)</a></li>
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
       {% endif %}
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
       {% endif %}
-      {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+      {% if author.x %}
+        <li><a href="https://x.com/{{ author.x }}"><i class="fab fa-x-twitter" aria-hidden="true"></i> X (Twitter)</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -60,6 +57,9 @@
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-xing-square" aria-hidden="true"></i> XING</a></li>
+      {% endif %}
+      {% if author.keybase %}
+        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a></li>
@@ -106,20 +106,20 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+      {% if author.orcid %}
+        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
+      {% endif %}
       {% if author.googlescholar %}
         <li><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li> <!-- academicon: "ai ai-google-scholar-square" fontawesome: "fas fa-graduation-cap" -->
       {% endif %}
       {% if author.researchgate %}
         <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a></li> <!-- academicon: "ai ai-researchgate-square" fontawesome: "fab fa-researchgate" -->
       {% endif %}
-      {% if author.orcid %}
-        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
+      {% if author.researcherid %}
+        <li><a href="{{ author.researcherid.url }}"><i class="ai ai-clarivate" aria-hidden="true"></i> ResearcherID</a></li>
       {% endif %}
       {% if author.scopus %}
         <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}"><i class="ai ai-scopus" aria-hidden="true"></i> Scopus</a></li>
-      {% endif %}
-      {% if author.researcherid %}
-        <li><a href="{{ author.researcherid.url }}"><i class="ai ai-clarivate" aria-hidden="true"></i> ResearcherID</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
