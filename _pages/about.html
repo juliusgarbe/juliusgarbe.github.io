@@ -72,11 +72,30 @@ redirect_from:
         </div>
 
         <!-- Mastodon feed -->
-        <div class="notice social-icons">
+        <!-- <div class="notice social-icons">
             <h2 style="margin-top: 0px; margin-bottom: 0px;"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon Feed</h2>
             <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" height="500" width="100%" style="border: none;" src="https://mastofeed.com/apiv2/feed?userurl={{ site.author.mastodon.url }}&theme=light&size=75&header=false&replies=false&boosts=false"></iframe>
             <div style="text-align: center; margin-top: 10px;"><a href="{{ site.author.mastodon.url }}" class="btn" style="background-color: #563acc;">Follow {{ site.author.mastodon.id }}</a></div>
+        </div> -->
+
+        <!-- Bluesky feed -->
+        <!-- https://github.com/Vincenius/bsky-embed -->
+        <div class="notice social-icons">
+            <h2 style="margin-top: 0px; margin-bottom: 0px;"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky Feed</h2>
+            <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+            <bsky-embed
+                username="{{ site.author.bluesky }}"
+                mode="light"
+                limit="2"
+                link-target="_blank"
+                link-image="true"
+                load-more="true"
+                disable-styles="false"
+                custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } .whitespace-pre-wrap { word-wrap: break-word;}"
+                date-format='{"type":"relative","locale":"en-US","options":{"weekday":"short","year":"numeric","month":"short","day":"numeric"}}'
+            ></bsky-embed>
         </div>
+        <div style="text-align: center; margin-top: -80px;"><a href="https://bsky.app/profile/{{ site.author.bluesky }}" class="btn" style="background-color: #1185FE;">Follow <i class="fab fa-bluesky fa-inverse" aria-hidden="true"></i> {{ site.author.bluesky }}</a></div>
 
     </div>
 
