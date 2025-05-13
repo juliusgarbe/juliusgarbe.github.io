@@ -2,9 +2,9 @@
 title: "Antarctic Ice Sheet tipping in the last 800 kyr warns of future ice loss"
 collection: publications_preprints
 permalink: /publications/preprints/chandler-2025
-citation: "Chandler, D. M., Langebroek, P. M., Reese, R., Albrecht, T., <b>Garbe, J.</b>, Winkelmann, R.: <i>Antarctic Ice Sheet tipping in the last 800 kyr warns of future ice loss</i>, Communications Earth & Environment (accepted), DOI: <a href='https://doi.org/10.21203/rs.3.rs-3042739/v1'>10.21203/rs.3.rs-3042739/v1</a> [preprint], 2025."
+citation: "Chandler, D. M., Langebroek, P. M., Reese, R., Albrecht, T., <b>Garbe, J.</b>, Winkelmann, R.: <i>Antarctic Ice Sheet tipping in the last 800 kyr warns of future ice loss</i>, Communications Earth & Environment (in press), DOI: <a href='https://doi.org/10.21203/rs.3.rs-3042739/v1'>10.21203/rs.3.rs-3042739/v1</a> [preprint], 2025."
 date: 2025-04-14
-venue: 'Communications Earth & Environment (accepted)'
+venue: 'Communications Earth & Environment (in press)'
 ---
 
 ## Abstract
