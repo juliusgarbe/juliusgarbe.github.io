@@ -1,0 +1,16 @@
+---
+title: "Antarctic Ice Sheet tipping in the last 800,000 years warns of future ice loss"
+collection: publications
+permalink: /publications/articles/chandler-2025
+citation: "Chandler, D. M., Langebroek, P. M., Reese, R., Albrecht, T., <b>Garbe, J.</b>, Winkelmann, R.: <i>Antarctic Ice Sheet tipping in the last 800,000 years warns of future ice loss</i>, Communications Earth & Environment, 6, 420, DOI: <a href='https://doi.org/10.1038/s43247-025-02366-2'>10.1038/s43247-025-02366-2</a>, 2025. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
+doi: 10.1038/s43247-025-02366-2
+press: 
+date: 2025-05-30
+venue: 'Communications Earth & Environment'
+---
+
+## Abstract
+<div style="float: left; margin-right: 10px; width: 380px;">
+    <img src="https://media.springernature.com/full/springer-static/image/art:10.1038%2Fs43247-025-02366-2/MediaObjects/43247_2025_2366_Fig3_HTML.png?as=webp">
+</div>
+Ice loss from Antarctica's vast freshwater reservoir could threaten coastal communities and the global economy if the ice volume decreases by just a few percent. Observed changes in mass balance are limited to  ~40 years, and are difficult to interpret in the context of an ice sheet with response time scales reaching centuries to millennia. To gain a much longer-term perspective, here we combine transient and equilibrium Parallel Ice Sheet Model simulations of Antarctic Ice Sheet response to glacial-interglacial warming and cooling cycles over the last 800,000 years. We find hysteresis that is caused by the long response time and by crossing of tipping points. Notably, West Antarctic Ice Sheet collapse contributes over 4 m sea-level rise in equilibrium ice sheet states with little (0.25 °C) or even no ocean warming above present. Therefore, today we are likely already at (or almost at) an overshoot scenario, supporting recent studies warning of substantial irreversible ice loss with little or no further climate warming.
