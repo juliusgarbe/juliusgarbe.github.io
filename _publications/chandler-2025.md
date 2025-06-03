@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/articles/chandler-2025
 citation: "Chandler, D. M., Langebroek, P. M., Reese, R., Albrecht, T., <b>Garbe, J.</b>, Winkelmann, R.: <i>Antarctic Ice Sheet tipping in the last 800,000 years warns of future ice loss</i>, Communications Earth & Environment, 6, 420, DOI: <a href='https://doi.org/10.1038/s43247-025-02366-2'>10.1038/s43247-025-02366-2</a>, 2025. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 doi: 10.1038/s43247-025-02366-2
-press: 
+press: "https://www.pik-potsdam.de/en/news/latest-news/scientists-say-next-few-years-vital-to-securing-the-future-of-the-west-antarctic-ice-sheet"
 date: 2025-05-30
 venue: 'Communications Earth & Environment'
 ---
