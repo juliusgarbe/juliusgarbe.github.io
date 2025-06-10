@@ -18,3 +18,9 @@ The Ice Sheet Model Intercomparison Project for CMIP6 (ISMIP6) is the primary ef
 ## Official press release
 - Potsdam Institute: *[Increase of future sea-level rise highly depends on reducing emissions today](https://www.pik-potsdam.de/en/news/latest-news/increase-of-future-sea-level-rise-highly-depends-on-reducing-emissions-today "https://www.pik-potsdam.de/en/news/latest-news/increase-of-future-sea-level-rise-highly-depends-on-reducing-emissions-today")*
 - Dartmouth College: *[Study Shows Sea-Level Rise for Future Generations Is Highly Dependent on Emission Levels](https://engineering.dartmouth.edu/news/study-shows-sea-level-rise-for-future-generations-is-highly-dependent-on-emission-levels "https://engineering.dartmouth.edu/news/study-shows-sea-level-rise-for-future-generations-is-highly-dependent-on-emission-levels")*
+
+## Media coverage
+Selected international media articles:
+
+- English: [Science](https://www.science.org/content/article/doomsday-may-be-delayed-antarctica-s-most-vulnerable-glacier "https://www.science.org/content/article/doomsday-may-be-delayed-antarctica-s-most-vulnerable-glacier"), [Earth.com](https://www.earth.com/news/when-will-the-antarctic-ice-sheet-collapse/ "https://www.earth.com/news/when-will-the-antarctic-ice-sheet-collapse/"), [Phys.org](https://phys.org/news/2024-09-rapid-loss-antarctic-ice-current.html "https://phys.org/news/2024-09-rapid-loss-antarctic-ice-current.html"), [Irish Mirror](https://www.irishmirror.ie/news/irish-news/sea-level-rise-potsdam-institute-33628939 "https://www.irishmirror.ie/news/irish-news/sea-level-rise-potsdam-institute-33628939")
+- German: [Forschung & Lehre](https://www.forschung-und-lehre.de/zeitfragen/antarktisches-eis-schmilzt-laut-prognose-ab-2100-rasant-6652 "https://www.forschung-und-lehre.de/zeitfragen/antarktisches-eis-schmilzt-laut-prognose-ab-2100-rasant-6652")
