@@ -23,7 +23,7 @@ redirect_from:
 
 ## Education
 - **Ph.D. in Climate Physics**, 2017-present<br>
-**[Earth Resilience Science Unit, Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [Institute of Physics and Astronomy, University of Potsdam](http://www.physik.uni-potsdam.de/ "http://www.physik.uni-potsdam.de/")**
+**[Earth Resilience Science Unit, Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [Institute of Physics and Astronomy, University of Potsdam](https://www.uni-potsdam.de/de/physik/ "https://www.uni-potsdam.de/de/physik/")**
   - *Thesis:* The Antarctic Ice Sheet as a tipping element in the Earth system
   - *Supervisors:* Prof. Ricarda Winkelmann & Dr. Jonathan F. Donges
 
