@@ -1,10 +1,10 @@
 ---
 title: "Mapping tipping risks from Antarctic ice basins under global warming"
 collection: publications_preprints
-permalink: /publications/preprints/winkelmann-2024
-citation: "Winkelmann, R., <b>Garbe, J.</b>, Donges, J. F., Albrecht, T.: <i>Mapping tipping risks from Antarctic ice basins under global warming</i>, in review, 2024."
-date: 2024-07-26
-venue: 'In review'
+permalink: /publications/preprints/winkelmann-2025
+citation: "Winkelmann, R., <b>Garbe, J.</b>, Donges, J. F., Albrecht, T.: <i>Mapping tipping risks from Antarctic ice basins under global warming</i>, Nature Climate Change, accepted, 2025."
+date: 2025-06-17
+venue: 'Nature Climate Change (accepted)'
 ---
 
 ## Abstract
