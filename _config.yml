@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "JULIUS GARBE" # site title
 title_separator          : "&#124;"
 name                     : &name "Julius Garbe"
-description              : &description "Ph.D. candidate and climate scientist at the Potsdam Institute for Climate Impact Research at Potsdam, Germany." # used predominantly in meta descriptions for improving SEO
+description              : &description "Climate scientist and Ph.D. candidate at the Potsdam Institute for Climate Impact Research (PIK), Germany." # used predominantly in meta descriptions for improving SEO
 url                      : "https://juliusgarbe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliusgarbe/juliusgarbe.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "avatar/IMG_6274.JPG"
-  bio              : "Ph.D. candidate and climate scientist at the Potsdam Institute for Climate Impact Research at Potsdam, Germany." # sidebar bio
+  bio              : "Climate scientist and Ph.D. candidate at the Potsdam Institute for Climate Impact Research (PIK), Germany." # sidebar bio
   bitbucket        :
   bluesky          : "juliusgarbe.github.io"
   codepen          :
   dribbble         :
   email            : "julius.garbe@pik-potsdam.de"
-  employer         : "PIK / UP"
+  employer         : "PIK Potsdam"
   facebook         :
   flickr           :
   foursquare       :
