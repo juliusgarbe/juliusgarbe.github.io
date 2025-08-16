@@ -37,7 +37,7 @@ redirect_from:
   - *Thesis:* [An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history](/publications/theses/garbe-2013 "/publications/theses/garbe-2013")
   - *Supervisors:* Prof. Jürgen Kurths & Dr. habil. Georg Feulner
 
-## Relevant Academic Positions
+## Professional & Academic Experience
 - **Guest researcher**, Potsdam Institute for Climate Impact Research, 2024-present
   - *Working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
   - *Department:* [Earth Resilience Science Unit](https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu "https://www.pik-potsdam.de/en/institute/futurelabs-science-units/ersu")
@@ -64,7 +64,7 @@ redirect_from:
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Data & Code
+## Open-Access Data & Code
 <ul>{% for post in site.publications_data reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
@@ -74,7 +74,7 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
   
-## Teaching
+## Teaching Experience
 <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
