@@ -23,17 +23,17 @@ redirect_from:
 
 ## Education
 - **Ph.D. in Climate Physics**, 2017-present<br>
-**[Earth Resilience Science Unit, Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [Institute of Physics and Astronomy, University of Potsdam](https://www.uni-potsdam.de/de/physik/ "https://www.uni-potsdam.de/de/physik/")**
+**[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [University of Potsdam](https://www.uni-potsdam.de/ "https://www.uni-potsdam.de/")**
   - *Thesis:* The Antarctic Ice Sheet as a tipping element in the Earth system
   - *Supervisors:* Prof. Ricarda Winkelmann & Dr. Jonathan F. Donges
 
 - **M.Sc. in Integrated Climate System Sciences**, 2014-2017<br>
-**[School of Integrated Climate System Sciences, University of Hamburg](https://www.sicss.uni-hamburg.de "https://www.sicss.uni-hamburg.de")**
+**[University of Hamburg](https://www.uni-hamburg.de/ "https://www.uni-hamburg.de/")**
   - *Thesis:* [Long-term evolution and critical thresholds of the Antarctic Ice Sheet](/publications/theses/garbe-2017 "/publications/theses/garbe-2017")
   - *Supervisors:* Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, & Prof. Lars Kaleschke
 
 - **B.Sc. in Physics (major) and Mathematics (minor)**, 2009-2013<br>
-**[Department of Physics, Humboldt University of Berlin](https://www.physik.hu-berlin.de/ "https://www.physik.hu-berlin.de/")**
+**[Humboldt University of Berlin](https://www.hu-berlin.de/ "https://www.hu-berlin.de/")**
   - *Thesis:* [An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history](/publications/theses/garbe-2013 "/publications/theses/garbe-2013")
   - *Supervisors:* Prof. Jürgen Kurths & Dr. habil. Georg Feulner
 
