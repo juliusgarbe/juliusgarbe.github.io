@@ -24,7 +24,7 @@ redirect_from:
 ## Education
 - **Ph.D. in Climate Physics**, 2017-present<br>
 **[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/ "https://www.pik-potsdam.de/") / [University of Potsdam](https://www.uni-potsdam.de/ "https://www.uni-potsdam.de/")**
-  - *Thesis:* The Antarctic Ice Sheet as a tipping element in the Earth system
+  - *Thesis:* The Antarctic Ice Sheet as a tipping element of the Earth system
   - *Supervisors:* Prof. Ricarda Winkelmann & Dr. Jonathan F. Donges
 
 - **M.Sc. in Integrated Climate System Sciences**, 2014-2017<br>
