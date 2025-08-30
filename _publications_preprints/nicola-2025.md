@@ -4,7 +4,7 @@ collection: publications_preprints
 permalink: /publications/preprints/nicola-2025
 citation: "Nicola, L., <b>Garbe, J.</b>, Klose, A. K., Winkelmann, R., Reese, R.: <i>Constraining the onset of future irreversible retreat of Thwaites Glacier, Antarctica</i>, in review, DOI: <a href='https://doi.org/10.31223/X5NB14'>10.31223/X5NB14</a> [preprint], 2025."
 date: 2025-07-22
-venue: 'In review'
+venue: "Earth's Future"
 ---
 
 ## Abstract
