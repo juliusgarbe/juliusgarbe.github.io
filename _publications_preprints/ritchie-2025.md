@@ -2,7 +2,7 @@
 title: "The implications of overshooting 1.5°C on Earth system tipping elements - a review"
 collection: publications_preprints
 permalink: /publications/preprints/ritchie-2025
-citation: "Ritchie*, P. D. L., Steinert*, N. J., Abrams, J. F., Alkhayuon, H., Arnscheidt, C. W., Bochow, N., Chapman, R. R., Clarke, J., Dennis, D. P., Donges, J. F., Flores, B. M., <b>Garbe, J.</b>, Högner, A., Huntingford, C., Lenton, T. M., Lohmann, J., Lux-Gottschalk, K., Milkoreit, M., Möller, T., Pearce-Kelly, P., Pereira, L., Quinn, C., Schleussner, C.-F., Stuenzi, S. M., Swingedouw, D., Van der Laan, L. N., Zickfeld, K., Wunderling, N.*: <i>The implications of overshooting 1.5°C on Earth system tipping elements - a review</i>, Environmental Research Letters, in review, DOI: <a href='https://doi.org/10.31223/X5273K'>10.31223/X5273K</a> [preprint], 2025."
+citation: "Ritchie*, P. D. L., Steinert*, N. J., Abrams, J. F., Alkhayuon, H., Arnscheidt, C. W., Bochow, N., Chapman, R. R., Clarke, J., Dennis, D. P., Donges, J. F., Flores, B. M., <b>Garbe, J.</b>, Högner, A., Huntingford, C., Lenton, T. M., Lohmann, J., Lux-Gottschalk, K., Milkoreit, M., Möller, T., Pearce-Kelly, P., Pereira, L., Quinn, C., Schleussner, C.-F., Stuenzi, S. M., Swingedouw, D., Van der Laan, L. N., Zickfeld, K., Wunderling*, N.: <i>The implications of overshooting 1.5°C on Earth system tipping elements - a review</i>, Environmental Research Letters, in review, DOI: <a href='https://doi.org/10.31223/X5273K'>10.31223/X5273K</a> [preprint], 2025. *These authors contributed equally to this work."
 doi: 10.31223/X5273K
 date: 2025-09-24
 venue: "Environmental Research Letters"
