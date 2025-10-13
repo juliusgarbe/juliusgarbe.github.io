@@ -39,9 +39,15 @@ redirect_from:
 
 ## Policy Reports
 <div class="list__item">
+<h2 class="archive__item-title" itemprop="headline"><a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">The Global Tipping Points Report 2025</a></h2>
+<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> University of Exeter | 2025</p>
+Lenton, T. M., Milkoreit, M., Willcock, S., Abrams, J. F., Armstrong McKay, D. I., Buxton, J. E., Donges, J. F., Loriani, S., Wunderling, N., Alkemade, F., Barrett, M., Constantino, S., Powell, T., Smith, S. R., Boulton, C. A., Pinho, P., Dijkstra, H. A. Pearce-Kelly, P., Roman-Cuesta, R.M., Dennis, D. (eds): <i>The Global Tipping Points Report 2025</i>, University of Exeter, UK, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">global-tipping-points.org</a>, 2025.
+</div>
+
+<div class="list__item">
 <h2 class="archive__item-title" itemprop="headline"><a href="https://report-2023.global-tipping-points.org" title="https://report-2023.global-tipping-points.org" target="_blank">The Global Tipping Points Report 2023</a></h2>
 <p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> University of Exeter | 2023</p>
-Winkelmann, R., Steinert, N. J., Armstrong McKay, D. I., Brovkin, V., Kääb, A., Notz, D., Aksenov, Y., Arndt, S., Bathiany, S., Burke, E., <b>Garbe, J.</b>, Gasson, E., Goelzer, H., Hugelius, G., Klose, A. K., Langebroek, P. M., Marzeion, B., Maussion, F., Nitzbon, J., Robinson, A., Rynders, S., Sudakow, I.: <i>Tipping points in the cryosphere</i> – In: Lenton, T. M., Armstrong McKay, D. I., Loriani, S., Abrams, J. F., Lade, S. J., Donges, J. F., Milkoreit, M., Powell, T., Smith, S. R., Zimm, C., Bailey, E., Buxton, J. E., Dyke, J. G., Ghadiali, A., Laybourn, L. (eds): <i>The Global Tipping Points Report 2023</i>, University of Exeter, UK, <a href="https://report-2023.global-tipping-points.org" title="https://report-2023.global-tipping-points.org" target="_blank">report-2023.global-tipping-points.org</a>, 2023.
+Lenton, T. M., Armstrong McKay, D. I., Loriani, S., Abrams, J. F., Lade, S. J., Donges, J. F., Milkoreit, M., Powell, T., Smith, S. R., Zimm, C., Bailey, E., Buxton, J. E., Dyke, J. G., Ghadiali, A., Laybourn, L. (eds): <i>The Global Tipping Points Report 2023</i>, University of Exeter, UK, <a href="https://report-2023.global-tipping-points.org" title="https://report-2023.global-tipping-points.org" target="_blank">report-2023.global-tipping-points.org</a>, 2023.
 </div>
 
 ## Other Writing
