@@ -1,0 +1,15 @@
+---
+title: "TOAD v1.0: A Python Framework for Detecting Abrupt Shifts and Coherent Spatial Domains in Earth-System Data"
+collection: publications_preprints
+permalink: /publications/preprints/harteg-2026
+citation: "Harteg, J., Röhrich, L., De Maeyer, K., <b>Garbe, J.</b>, Sakschewski, B., Klose, A. K., Donges, J. F., Winkelmann, R., Loriani, S.: <i>TOAD v1.0: A Python Framework for Detecting Abrupt Shifts and Coherent Spatial Domains in Earth-System Data</i>, Geoscientific Model Development, submitted, 2026."
+date: 2026-01-21
+venue: "Geoscientific Model Development"
+---
+
+## Abstract
+Large-scale, abrupt, and potentially irreversible transitions in major Earth-system components are becoming increasingly likely, yet their detection and comparison across complex model ensembles remain fragmented, inconsistent, and often tied to model- or method-specific analyses, complicating coordinated assessments of tipping-relevant dynamics.
+
+Here we present the first public release of the Tipping and Other Abrupt events Detector (TOAD v1.0), an open-source Python framework that provides a user-oriented, modular pipeline for detecting, clustering, and synthesising abrupt changes in gridded Earth-system data. TOAD separates the analysis into grid-level shift detection, spatio-temporal clustering, and ensemble synthesis, while allowing algorithms at each stage to be flexibly exchanged or extended. The framework addresses several practical challenges in large-scale analyses, including equal-area regridding to reduce polar bias and efficient spatiotemporal clustering via a unified Euclidean embedding. An ensemble consensus step based on sparse co-association matrices identifies spatial regions that are robust across ensemble members, models, or configurations, and summarises for each region the timing (or forcing level) and spread of detected abrupt shifts. TOAD is not an automatic tipping-point detector; instead, it functions as a data-introspection tool that reveals abrupt-change behaviour across spatial and temporal scales and as such flags potentially tipping-relevant dynamics for subsequent, process-based analysis.
+
+We demonstrate TOAD's capabilities using a synthetic benchmark dataset, two domain models (the Antarctic Ice Sheet and global vegetation carbon), and a global Earth system model ensemble focusing on mixed-layer depth in the North Atlantic Subpolar Gyre. Across these examples, TOAD consistently identifies spatially coherent domains of abrupt change and characterises their timing and ensemble variability. TOAD thus supports multi-model efforts such as the Tipping Points Modelling Intercomparison Project (TIPMIP) by providing a structured basis for systematic abrupt-shift assessment, enabling investigation of the spatial organisation, timing, and uncertainty of tipping-relevant dynamics across model ensembles.
