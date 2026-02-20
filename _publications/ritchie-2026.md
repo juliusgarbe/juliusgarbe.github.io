@@ -1,7 +1,7 @@
 ---
 title: "The implications of overshooting 1.5°C on Earth system tipping elements---a review"
 collection: publications
-permalink: /publications/ritchie-2026
+permalink: /publications/articles/ritchie-2026
 citation: "Ritchie*, P. D. L., Steinert*, N. J., Abrams, J. F., Alkhayuon, H., Arnscheidt, C. W., Bochow, N., Chapman, R. R., Clarke, J., Dennis, D. P., Donges, J. F., Flores, B. M., <b>Garbe, J.</b>, Högner, A., Huntingford, C., Lenton, T. M., Lohmann, J., Lux-Gottschalk, K., Milkoreit, M., Möller, T., Pearce-Kelly, P., Pereira, L., Quinn, C., Schleussner, C.-F., Stuenzi, S. M., Swingedouw, D., Van der Laan, L. N., Zickfeld, K., Wunderling*, N.: <i>The implications of overshooting 1.5°C on Earth system tipping elements&mdash;a review</i>, Environmental Research Letters, DOI: <a href='https://doi.org/10.1088/1748-9326/ae3cad'>10.1088/1748-9326/ae3cad</a>, 2026. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span> *These authors contributed equally to this work."
 doi: 10.1088/1748-9326/ae3cad
 press: "https://www.pik-potsdam.de/en/news/latest-news/global-warming-must-peak-below-2degc-to-limit-tipping-point-risks"

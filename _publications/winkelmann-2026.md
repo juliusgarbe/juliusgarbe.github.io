@@ -1,7 +1,7 @@
 ---
 title: "Mapping tipping risks from Antarctic ice basins under global warming"
 collection: publications
-permalink: /publications/winkelmann-2026
+permalink: /publications/articles/winkelmann-2026
 citation: "Winkelmann, R., <b>Garbe, J.</b>, Donges, J. F., Albrecht, T.: <i>Mapping tipping risks from Antarctic ice basins under global warming</i>, Nature Climate Change, DOI: <a href='https://doi.org/10.1038/s41558-025-02554-0'>10.1038/s41558-025-02554-0</a>, 2026. <span style='color: LimeGreen;' title='Open Access'><i class='ai ai-open-access' aria-hidden='true'></i></span>"
 doi: 10.1038/s41558-025-02554-0
 press: "https://www.pik-potsdam.de/en/news/latest-news/new-study-identifies-sequence-of-critical-thresholds-for-antarctic-ice-basins"
@@ -17,3 +17,4 @@ The Antarctic Ice Sheet is subject to amplifying feedbacks which can accelerate 
 
 ## Official press release
 - Potsdam Institute: *[New study identifies sequence of critical thresholds for Antarctic ice basins](https://www.pik-potsdam.de/en/news/latest-news/new-study-identifies-sequence-of-critical-thresholds-for-antarctic-ice-basins "https://www.pik-potsdam.de/en/news/latest-news/new-study-identifies-sequence-of-critical-thresholds-for-antarctic-ice-basins")*
+- MPI Geoanthropology: *[New study identifies sequence of critical thresholds for Antarctic ice basins](https://www.gea.mpg.de/197049/new-study-identifies-sequence-of-critical-thresholds-for-antarctic-ice-basins "https://www.gea.mpg.de/197049/new-study-identifies-sequence-of-critical-thresholds-for-antarctic-ice-basins")*
