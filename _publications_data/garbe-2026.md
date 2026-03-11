@@ -11,8 +11,8 @@ venue: 'Zenodo'
 
 This dataset contains the [PISM](https://www.pism.io/ "https://www.pism.io/") model output data of the Antarctic Ice Sheet critical thresholds simulations published and discussed in
 
-[Winkelmann, R., Garbe, J., Donges, J. F., and Albrecht, T. Mapping tipping risks from Antarctic ice basins under global warming. Nature Climate Change, in press](https://doi.org/10.1038/s41558-025-02554-0 "https://doi.org/10.1038/s41558-025-02554-0").
+[Winkelmann, R., Garbe, J., Donges, J. F., and Albrecht, T. Mapping tipping risks from Antarctic ice basins under global warming. Nature Climate Change 16(3), 2026](https://doi.org/10.1038/s41558-025-02554-0 "https://doi.org/10.1038/s41558-025-02554-0").
 
-A detailed description of the individual file contents is given in *README.txt* below. The corresponding PISM model code used for these simulations is archived [here](https://doi.org/10.5281/zenodo.3956431 "https://doi.org/10.5281/zenodo.3956431").
+A detailed description of the individual file contents is given in `README.txt` below. The corresponding PISM model code used for these simulations is archived [here](https://doi.org/10.5281/zenodo.3956431 "https://doi.org/10.5281/zenodo.3956431").
 
 In case of questions, feel free to contact us at [{{ site.author.email }}](mailto:{{ site.author.email }}) or [ricarda.winkelmann@pik-potsdam.de](mailto:ricarda.winkelmann@pik-potsdam.de "mailto:ricarda.winkelmann@pik-potsdam.de").
