@@ -39,6 +39,12 @@ redirect_from:
 
 ## Policy Reports
 <div class="list__item">
+<h2 class="archive__item-title" itemprop="headline"><a href="https://iccinet.org/statecryo25/" title="https://iccinet.org/statecryo25/" target="_blank">State of the Cryosphere 2025</a></h2>
+<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> International Cryosphere Climate Initiative | 2025</p>
+International Cryosphere Climate Initiative<i>State of the Cryosphere 2025: Ice Loss = Global Damage</i> (Pearson, P., <b>Garbe, J.</b>, Hancock, S., Imdieke, A., Kirkham, J. (eds.)), Stockholm, Sweden, <a href="https://iccinet.org/statecryo25/" title="https://iccinet.org/statecryo25/" target="_blank">iccinet.org/statecryo25/</a>, 2025.
+</div>
+
+<div class="list__item">
 <h2 class="archive__item-title" itemprop="headline"><a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">The Global Tipping Points Report 2025</a></h2>
 <p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> University of Exeter | 2025</p>
 Lenton, T. M., Milkoreit, M., Willcock, S., Abrams, J. F., Armstrong McKay, D. I., Buxton, J. E., Donges, J. F., Loriani, S., Wunderling, N., Alkemade, F., Barrett, M., Constantino, S., Powell, T., Smith, S. R., Boulton, C. A., Pinho, P., Dijkstra, H. A. Pearce-Kelly, P., Roman-Cuesta, R.M., Dennis, D. (eds): <i>The Global Tipping Points Report 2025</i>, University of Exeter, UK, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">global-tipping-points.org</a>, 2025.
