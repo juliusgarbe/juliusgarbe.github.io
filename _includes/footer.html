@@ -6,24 +6,24 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.author.bluesky %}
-      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i>Bluesky</a></li>
     {% endif %}
     {% if site.author.mastodon.id %}
-      <li><a href="{{ site.author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+      <li><a href="{{ site.author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i>Mastodon</a></li>
     {% endif %}
     {% if site.x.username %}
-      <li><a href="https://x.com/{{ site.x.username }}"><i class="fab fa-x-twitter" aria-hidden="true"></i> X</a></li>
+      <li><a href="https://x.com/{{ site.x.username }}"><i class="fab fa-x-twitter" aria-hidden="true"></i>X</a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook" aria-hidden="true"></i>Facebook</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a></li>
     {% endif %}
     {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i>Bitbucket</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fas fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fas fa-rss" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     <!-- for colored icon, use: class="fa fa-fw fa-rss-square" -->
   </ul>
 </div>
