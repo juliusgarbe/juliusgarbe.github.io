@@ -15,11 +15,17 @@ redirect_from:
 
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
-<h2 align="center">{{ site.author.name }}</h2>
-<h3 align="center" style="margin: 0px auto 20px;">M.Sc. Integrated Climate System Sciences</h3>
-<p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
+<div align="center">
+  <h2>{{ site.author.name }}</h2>
+  <h3 style="margin: 0px auto 20px;">M.Sc. Integrated Climate System Sciences</h3>
+  <p style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
-<p align="center"><i class="far fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-bluesky" aria-hidden="true"></i>&nbsp;<a href="https://bsky.app/profile/{{ site.author.bluesky }}">@{{ site.author.bluesky }}</a></p>
+  <p>
+    <i class="far fa-envelope" style="margin-right: 5px;" aria-hidden="true"></i><a href="mailto:{{ site.author.email }}" style="padding-right: 10px;">{{ site.author.email }}</a>
+    <i class="fas fa-desktop" style="margin-right: 5px;" aria-hidden="true"></i><a href="{{ site.author.uri }}" style="margin-right: 10px;">{{ site.author.uri | remove: "https://" }}</a>
+    <i class="fab fa-bluesky" style="margin-right: 5px;" aria-hidden="true"></i><a href="https://bsky.app/profile/{{ site.author.bluesky }}" style="margin-right: 10px;">@{{ site.author.bluesky }}</a>
+  </p>
+</div>
 
 ## Education
 - **Ph.D. in Climate Physics**, 2017-present<br>
