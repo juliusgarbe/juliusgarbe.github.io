@@ -22,9 +22,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="5.1958042"
-     inkscape:cx="32.045087"
-     inkscape:cy="32.045087"
+     inkscape:zoom="4.1566434"
+     inkscape:cx="32.598419"
+     inkscape:cy="32.598419"
      inkscape:window-width="1512"
      inkscape:window-height="920"
      inkscape:window-x="0"
@@ -40,7 +40,7 @@
      rx="0"
      fill="#2b2f33"
      id="rect1"
-     style="fill:#4d5154;fill-opacity:1"
+     style="display:inline;fill:none;fill-opacity:1"
      x="0"
      y="0" />
   <!-- Ice above water -->
@@ -51,7 +51,8 @@
      stroke-width="7.5"
      stroke-linejoin="miter"
      stroke-miterlimit="3"
-     id="polyline1" />
+     id="polyline1"
+     style="stroke:#bdc1c4;stroke-opacity:1" />
   <!-- Submerged part -->
   <polyline
      points="13,32 13,43 32,55 51,43 51,32"
