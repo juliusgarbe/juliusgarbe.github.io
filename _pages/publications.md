@@ -39,6 +39,18 @@ redirect_from:
 
 ## Policy Reports
 <div class="list__item">
+<h2 class="archive__item-title" itemprop="headline"><a href="https://iccinet.org/overshoot/" title="https://iccinet.org/overshoot/" target="_blank">Overshoot and the Cryosphere: Averting Global Meltdown</a></h2>
+<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> International Cryosphere Climate Initiative | 2026</p>
+International Cryosphere Climate Initiative: <i>Overshoot and the Cryosphere: Averting Global Meltdown. The Implications of Temperature Overshoot, Peak and Decline for the Cryosphere</i> (Kirkham, J. D., Pearson, P., <b>Garbe, J.</b>, Hancock, S., Imdieke, A. (Eds.)), Stockholm, Sweden, <a href="https://iccinet.org/overshoot/" title="https://iccinet.org/overshoot/" target="_blank">iccinet.org/overshoot/</a>, 2026.
+</div>
+
+<div class="list__item">
+<h2 class="archive__item-title" itemprop="headline"><a href="https://iccinet.org/statecryo26/" title="https://iccinet.org/statecryo26/" target="_blank">State of the Cryosphere 2026</a></h2>
+<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> International Cryosphere Climate Initiative | 2026</p>
+International Cryosphere Climate Initiative: <i>State of the Cryosphere 2026: The Cost of Overshoot</i> (Pearson, P., <b>Garbe, J.</b>, Hancock, S., Imdieke, A., Kirkham, J. (Eds.)), Stockholm, Sweden, <a href="https://iccinet.org/statecryo26/" title="https://iccinet.org/statecryo26/" target="_blank">iccinet.org/statecryo26/</a>, 2026.
+</div>
+
+<div class="list__item">
 <h2 class="archive__item-title" itemprop="headline"><a href="https://iccinet.org/statecryo25/" title="https://iccinet.org/statecryo25/" target="_blank">State of the Cryosphere 2025</a></h2>
 <p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> International Cryosphere Climate Initiative | 2025</p>
 International Cryosphere Climate Initiative: <i>State of the Cryosphere 2025: Ice Loss = Global Damage</i> (Pearson, P., <b>Garbe, J.</b>, Hancock, S., Imdieke, A., Kirkham, J. (Eds.)), Stockholm, Sweden, <a href="https://iccinet.org/statecryo25/" title="https://iccinet.org/statecryo25/" target="_blank">iccinet.org/statecryo25/</a>, 2025.
